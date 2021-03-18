@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ftc-dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/ftc-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcDashboard/ftc-dashboard.FtcDashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcDashboard/ftc-dashboard.FtcDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/ftc-dashboard.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/ftc-dashboard.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/ftc-dashboard.TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/ftc-dashboard.TeamCode.iml" />
+    </modules>
+  </component>
+</project>
